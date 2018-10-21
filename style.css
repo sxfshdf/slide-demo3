@@ -1,0 +1,14 @@
+*{margin: 0; padding: 0;}
+.window{
+  width: 480px;
+  height: 320px;
+  overflow: hidden;
+  margin: 40px auto;
+}
+.images{
+  display: flex;
+  transition: all 0.5s;
+}
+.buttons{
+  text-align: center;
+}

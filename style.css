@@ -3,7 +3,7 @@
   width: 480px;
   height: 320px;
   overflow: hidden;
-  margin: 40px auto;
+  margin: 20px auto;
 }
 .images{
   display: flex;
@@ -11,4 +11,11 @@
 }
 .buttons{
   text-align: center;
+  margin-top: 12px;
+}
+.controls{
+  text-align:center;
+}
+#previous{
+  margin-right: 10px;
 }
